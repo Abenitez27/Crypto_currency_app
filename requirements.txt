@@ -1,6 +1,6 @@
 streamlit==0.74.1
 pandas==0.25.1
-requests==2.22.0
-pillow==6.2.0
+requests==2.25.1
+pillow==8.1.0
 pybase64==1.1.1
-beautifulsoup4==4.8.0
+beautifulsoup4==4.9.3
