@@ -36,7 +36,7 @@ expander_bar.markdown("""
 * **Python libraries:** base64, pandas, streamlit, numpy,  matplotlib, seaborn, BeautifulSoup, requests, json, time
 * **Data source:** [CoinMarketCap](https://coinmarketcap.com).
 * **Credit:** Web scraper adapted from the Medium article *[ Web Scraping Crypto Prices With Python](https://towardsdatascience.com/web-scraping-crypto-prices-with-python-41072ea5b5bf)* written by [Bryan Feng](https://medium.com/@bryanf).
-* ** Credit:** Data Professor,[Build 12 Data Science Apps with Python and Streamlit - Full Course](https://www.youtube.com/watch?v=JwSS70SZdyM&t=5588s""")
+* ** Credit:** [Data Professor],(https://www.youtube.com/watch?v=JwSS70SZdyM&t=5588s""")
 
 #------------------------------------------------------------------
 # Page layout(continued)
